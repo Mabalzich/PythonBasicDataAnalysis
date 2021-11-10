@@ -2,6 +2,8 @@
 
 The open source dataset gives various metrics for shipping in the South China Sea. I created functions to anaylze the region, timeframe, sparse variables, and metrics for specific ship's identifiers.
 
+The data can be found here https://tv-datascience.s3.amazonaws.com/public/data/test_tasks/ocean_ais/json/json.zip
+
 Requirements:
 
 -Python 3.8
