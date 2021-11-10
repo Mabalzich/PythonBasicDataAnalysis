@@ -3,8 +3,11 @@
 The open source dataset gives various metrics for shipping in the South China Sea. I created functions to anaylze the region, timeframe, sparse variables, and metrics for specific ship's identifiers.
 
 Requirements:
+
 -Python 3.8
+
 -Python Dependencies Installed:
+
 	-pandas
 	-json
 	-datetime
